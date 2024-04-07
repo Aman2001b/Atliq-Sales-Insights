@@ -8,15 +8,22 @@ So, he decided to build a Power BI dashboard for converting the data into visual
 
 # Tech Stack
 -> ETL
+
 -> Power BI Desktop
+
 -> DAX
+
 -> Power Query
+
 -> Data Modelling
 
 # Learnings
 -> Connected Power Bi to My SQL
+
 -> Performed ETL and data cleaning
+
 -> Created Dax Measures
+
 -> Used Conditional column feature
 
 # Dashboard
